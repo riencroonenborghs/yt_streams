@@ -22,7 +22,7 @@ bundle install
 ## Usage
 
 ```
-Yt.info(<YOUTUBE_URL>)
+YtStreams.info(<YOUTUBE_URL>)
 ```
 
 If everything goes well, you will get a YtStreams::VideoInfo object back.
