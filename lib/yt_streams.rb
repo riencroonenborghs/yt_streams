@@ -9,7 +9,7 @@ module YtStreams
   end
 end
 
-require 'yt_streams/url_parser'
-require 'yt_streams/video_info'
-require 'yt_streams/itag'
-require 'yt_streams/stream'
+require_relative 'yt_streams/url_parser'
+require_relative 'yt_streams/video_info'
+require_relative 'yt_streams/itag'
+require_relative 'yt_streams/stream'
